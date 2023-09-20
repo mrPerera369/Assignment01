@@ -1,0 +1,1200 @@
+.main1 {
+    align-items: stretch;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-shrink: 0;
+    margin: 0;
+    order: 4;
+    padding: 0;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+form {
+    margin: 0;
+    padding: 0
+}
+
+label {
+    color: #606770;
+    cursor: default;
+    font-weight: 600;
+    vertical-align: middle
+}
+
+label input {
+    font-weight: normal
+}
+
+.container{
+    align-items: stretch;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-shrink: 0;
+    font-size: 100%;
+    justify-content: center;
+    /*margin-top: 32px;*/
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+   /* max-width: ;*/
+   padding-top: 0;
+   padding-right: 0;
+   padding-bottom: 32px;
+   padding-left: 0;
+   vertical-align: baseline;
+   width: 100%;
+   
+
+}
+@media(max-width:450px){
+    container {
+    margin-top:0;
+}
+}
+@media(max-width:875px){
+    container1 {
+    display:none;
+}
+}
+.container1{
+    align-self: center;
+    background-image: url(https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk);
+    background-position: -46px 0;
+    background-size: 468.32px 634.15px;
+    flex-basis: 380.32px;
+    height: 581.15px;
+    margin-bottom: 12px;
+    margin-right: 32px;
+
+}
+
+body{
+    background: rgb(255, 255, 255);
+    color: rgb(0,0,0);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0;
+    overflow-y: visible;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.Phoneimage{
+    align-items: stretch;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: 100%;
+    margin-left: 112px;
+    margin-top: 27px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    position: relative;
+    vertical-align: baseline;
+
+}
+.screenshot1{
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    font-size: 100%;
+    height: 538.84px;
+    left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    position: absolute;
+    top: 0;
+    width: 250px;
+
+}
+.rightside{
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: center;
+    margin-top: 12px;
+    max-width: 350px;
+}
+.rightside1{
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 1px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0 0 10px;
+    padding: 10px 0;
+    position: relative;
+    vertical-align: baseline;
+
+}
+.logosection{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-top: 36px;
+    margin-bottom: 12px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    /*align-content: stretch;*/
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+}
+.rightform{
+    margin-bottom: 10px;
+    max-width: 350px;
+    width: 100%;
+}
+.rightform1{
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.logoer{
+    background-image: url(https://static.cdninstagram.com/rsrc.php/v3/yx/r/WtxJZZ3-9ZP.png);
+    background-position: 0px 0px;
+    background-size: 176px 186px;
+    width: 174px;
+    height: 50px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+}
+.rightform2{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 24px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+
+}
+.rightform3{
+    margin: 0 40px 6px;
+}
+.rightform4{
+    align-items: center;
+    background-color: rgb(250,250,250);
+    border-top-color: rgb(219, 219, 219);
+    border-right-color: rgb(219, 219, 219);
+    border-bottom-color: rgb(219, 219, 219);
+    border-left-color: rgb(219, 219, 219);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    position: relative;
+    width: 100%;
+
+}
+.label1{
+    border: 0;
+    display: flex;
+    flex: 1 0 0px;
+    font: inherit;
+    font-size: 100%;
+    height: 36px;
+    margin: 0;
+    min-width: 0;
+    padding: 0;
+    position:relative;
+    vertical-align: baseline;
+    
+}
+
+
+.label2{
+    border: 0;
+    color: rgb(115,115,115);
+    font: inherit;
+    font-size:12px;
+    height: 36px;
+    left: 8px;
+    line-height: 36px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    text-overflow: ellipsis;
+    transform-origin: left;
+    transition: transform ease-out .1s;
+    
+    vertical-align: baseline;
+    white-space: nowrap;
+    
+}
+
+
+
+.label3{
+    align-items: center;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 100%;
+    height: 100%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 8px;
+    padding-bottom: 0;
+    padding-left: 0;
+    position: relative;
+    vertical-align: middle;
+}
+.passwordside{
+    margin: 0 40px 6px;
+}
+.passwordside1{
+    align-items: center;
+    background-color: rgb(250,250,250);
+    border-top-color: rgb(219, 219, 219);
+    border-right-color: rgb(219, 219, 219);
+    border-bottom-color: rgb(219, 219, 219);
+    border-left-color: rgb(219, 219, 219);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    box-sizing: border-box;
+    color:rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    position: relative;
+    width: 100%;
+}
+.passwordside2{
+    border: 0;
+    display: flex;
+    flex: 1 0 0px;
+    font: inherit;
+    font-size: 100%;
+    height: 36px;
+    margin: 0;
+    min-width: 0;
+    padding: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+.passwordside3{
+    border: 0;
+    color: rgb(115,115,115);
+    font: inherit;
+    font-size: 12px;
+    height: 36px;
+    left: 8px;
+    line-height: 36px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events:none; 
+    position: absolute;
+    right: 0;
+    text-overflow: ellipsis;
+    transform-origin: left;
+    transition: transform ease-in-out .1s;
+  
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+.phone1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    padding: 14px 0 14px 8px!important;
+    background: rgb(250,250,250);
+    border: 0;
+    flex: 1 0 auto;
+    margin: 0;
+    outline: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: ease-in-out .1s;
+
+}
+
+.pass1{
+    font-size: 16px;
+    background: rgb(250,250,250);
+    border: 0;
+    flex: 1 0 auto;
+    margin: 0;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 0 7px 8px;
+    text-overflow: ellipsis;
+    --webkit-appearance: none;
+    text-align: left;
+}
+.lable3{
+    align-items: center;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 100%;
+    height: 100%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding: 0;
+    padding-right: 8px;
+    padding-bottom: 0;
+    padding-left: 0;
+    position: relative;
+    vertical-align: middle;
+}
+.label4{
+    align-items: center;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-basis: auto;
+    flex-direction: row;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 100%;
+    height: 100%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 8px;
+    padding-bottom: 0;
+    padding-left: 0;
+    position: relative;
+    vertical-align: middle;
+
+
+}
+.showc{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: 8px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+}
+
+.showa{
+    text-align: center;
+ 
+    background: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    pointer-events: auto;
+    text-overflow: ellipsis;
+    text-transform: inherit;
+  
+    width: auto;
+    color: rgb(38,38,38);
+    background-color: transparent;
+    border: 0;
+    display: inline-block;
+    padding: 0!important;
+    position: relative;
+}
+.logsection{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+}
+.logingbtn{
+    text-align: center;
+    
+    background: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 7px 16px!important;
+    pointer-events: auto;
+    text-overflow: ellipsis;
+    text-transform: inherit;
+    
+    width: auto;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    border: none;
+    background-color: rgb(0,149,246);
+
+}
+.divider{
+    margin: 10px 40px 18px;
+}
+.dividerline{
+    display: flex;
+    flex-direction: row;
+}
+.dividerline1{
+    flex-grow: 1;
+    flex-shrink: 1;
+    height: 1px;
+    position: relative;
+    top: 0.45em;
+    background-color: rgb(219, 219, 219);
+}
+.or{
+    align-items: stretch;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    box-sizing: border-box;
+    color: rgb(115, 115, 115);
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: .8125rem;
+    font-weight: 600;
+    line-height: 1.1538;
+    margin-top: 0;
+    margin-right: 18px;
+    margin-bottom: 0;
+    margin-left: 18px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    position: relative;
+    text-transform: uppercase;
+    vertical-align: baseline;
+}
+.face{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-content: stretch;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+}
+.facebtn{
+   
+    background: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    pointer-events: auto;
+    text-overflow: ellipsis;
+    text-transform: inherit;
+    
+    width: auto;
+    border: 0;
+    color: rgb(0,149,246);
+    display: inline-block;
+    padding: 0!important;
+    position: relative;
+    text-align: center;
+}
+.faceico{
+    background-image: url(https://static.cdninstagram.com/rsrc.php/v3/y5/r/TJztmXpWTmS.png);
+    background-repeat: no-repeat;
+    background-position: -414px -259px;
+    height: 16px;
+    width: 16px;
+    border: 0;
+    display: inline-block;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    margin-right: 8px;
+    padding: 0;
+    position: relative;
+    top: 3px;
+    vertical-align: baseline;
+
+}
+.facel{
+    color: #385185;
+}
+.forgott{
+    background-color: transparent;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline;
+    list-style: none;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    touch-action: manipulation;
+    outline: none;
+    color: rgb(0,55,107);
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 12px!important;
+    text-align: center !important;
+    text-decoration: none;
+}
+
+.forgott1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    display: block;
+    overflow-x: visible;
+    overflow-y: visible;
+    position: relative;
+    max-width: 100%;
+    min-width:0 ;
+    white-space: pre-line;
+    word-wrap: break-word;
+    content: "";
+    height: 0;
+    font-weight: 400;
+    color: rgb(0,55,107);
+    margin-top: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+    margin-left: 0!important;
+    line-height:16px;
+
+
+}
+.forgott1::before .forgott1::after{
+    margin:10px 10px;
+}
+.daccount{
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 1px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0 0 10px;
+    padding: 30px 0;
+    position: relative;
+    vertical-align: baseline;
+}
+.daccount1{
+    display: block;
+    overflow-x: visible;
+    overflow-y: visible;
+    position: relative;
+    max-width: 100%;
+    min-width: 0;
+    white-space: pre-line;
+    word-wrap: break-word;
+    
+    display: block;
+    height: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(115, 115, 115);
+    
+    
+    margin-top: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+    margin-left: 0!important;
+    line-height: 18px;
+}
+
+.daccount1::after{
+    content: "";
+    display: block;
+    height: 0;
+    margin-bottom: -4px;
+
+
+}
+.daccount1::before{
+    content: "";
+    display: block;
+    height: 0;
+    margin-top: -3px;
+    
+}
+
+.dontletter{
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    margin: -30px;
+    text-align: center;
+    
+}
+.dontletter2{
+    background-color: transparent;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline;
+    list-style: none;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    text-align: inherit;
+    touch-action: manipulation;
+    outline: none;
+    
+
+}
+.dontletter2:hover{
+    text-decoration: none;
+
+}
+.daccount2{
+    display: inline!important;
+    margin: 0!important;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    color: rgb(0,149,246);
+    
+   
+}
+.getapp{
+    display: flex;
+    flex-direction: column;
+}
+.getapp2{
+    border: 0;
+    color: rgb(0, 0, 0);
+    font: inherit;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 10px 20px 10px 20px;
+    padding: 0;
+    text-align: center;
+    vertical-align: baseline;
+}
+.getapp3{
+    display: block;
+    overflow-x: visible;
+    overflow-y: visible;
+    position: relative;
+    max-width: 100%;
+    min-width: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: -3px;
+    margin-bottom: -4px;
+    margin-top: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+    margin-left: 0!important;
+    line-height: 18px;
+    
+
+}
+.getapp3::after{
+    content: "";
+    display: block;
+    height: 0;
+
+
+}
+.appimg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    margin: 10px 0 10px 0;
+
+}
+.googlep{
+    background-color: transparent;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline;
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    text-align: inherit;
+    touch-action: manipulation;
+    outline: none;
+    margin-right: 8px!important;
+    text-decoration: none;
+}
+.googlep1{
+    height: 40px;
+}
+.footersec{
+    align-items: stretch;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: 100%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    order: 5;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: relative;
+    vertical-align: baseline;
+    padding-right: 16px;
+    padding-left: 16px;
+    background-color: rgb(255, 255, 255);
+}
+.footersec1{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-bottom: 52px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: stretch;
+    align-items: auto;
+    justify-content: flex-start;
+}
+.footersec2{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-top: 24px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: stretch;
+    align-items: auto;
+    justify-content: flex-start;
+}
+.footersec3{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: center;
+
+}
+.meta{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-bottom: 12px;
+    margin-left: 8px;
+    margin-right: 8px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+    
+    
+}
+.metal{
+    display: block;
+    overflow-x: visible;
+    overflow-y: visible;
+    position: relative;
+    max-width: 100%;
+    min-width: 0;
+    white-space: pre-line;
+    word-break: break-word;
+    word-wrap: break-word;
+    content: "";
+    height: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(115, 115, 115);
+    margin-top: -2px;
+    margin-bottom: -3px;
+    margin-top: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+    margin-left: 0!important;
+    line-height: 16px;
+    
+
+
+}
+.footerdown{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin: 12px;
+    margin-bottom: 12px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: row;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: center;
+}
+.footerdown2{
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+
+}
+.footerdown3{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    position: static;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.footerdown4{
+    display: block;
+    overflow-x: visible;
+    overflow-y: visible;
+    position: relative;
+    max-width: 100%;
+    min-width: 0;
+    white-space: pre-line;
+    word-wrap: break-word;
+    
+    
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(115, 115, 115);
+    margin-top: -2px;
+    margin-bottom: -3px;
+    margin-top: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+    margin-left: 0!important;
+    line-height: 16px;
+}
+
+.footerdown4::after{
+    content: "";
+    display: block;
+    height: 0;
+}
+.footerdown4::before{
+    content: "";
+    display: block;
+    height: 0;
+}
+
+.downarrow{
+     box-sizing: border-box;
+     background-color: transparent;
+     display: flex;
+     border-top-left-radius: 0;
+     border-top-right-radius: 0;
+     border-bottom-right-radius: 0;
+     border-bottom-left-radius: 0;
+     margin-left: 4px;
+     position: relative;
+     overflow-x: visible;
+     overflow-y: visible;
+     flex-grow: 0;
+     flex-shrink: 0;
+     flex-direction: column;
+     align-items: center;
+     align-self: auto;
+     justify-content: center;
+}
+.downarrow2{
+    display: inline-block;
+    transform: rotate(180deg);
+}
+.downarrow3{
+    display: block;
+    position: relative;
+    color: rgb(115, 115, 115);
+    fill: rgb(115, 115, 115);
+    height: 12px;
+    width: 12px;
+    
+}
+.languages{
+    cursor: pointer;
+    height: 100%;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.languages1{
+    box-sizing: border-box;
+    background-color: transparent;
+    display: flex;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: 16px;
+    position: relative;
+    overflow-x: visible;
+    overflow-y: visible;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+}
+.languages2{
+    display: block;
+    overflow-x: visible;
+    overflow-y: visible;
+    position: relative;
+    max-width: 100%;
+    min-width: 0;
+    white-space: pre-line;
+    word-wrap: break-word;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(115, 115, 115);
+    margin-top: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+    margin-left: 0!important;
+    
+    
+
+}
+.languages2::after
+{content: "";
+    height: 0;
+    margin-bottom: -3px;
+
+}
+.languages2::before{
+    display: block;
+    height: 0;
+    margin-top: -2px;
+    content: "";
+
+}
